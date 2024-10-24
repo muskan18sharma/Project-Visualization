@@ -1,0 +1,13 @@
+Educational Attainment,Sex,Unemployment
+Less than a high school diploma,Female,6.0
+Less than a high school diploma,Male,5.1
+"High School Graduates, no College",Female,4.2
+" High School Graduates, no College",Male,3.8
+"Some College, no degree",Female,3.7
+"Some College, no degree",Male,3.3
+ Associate Degree,Female,2.7
+Associate Degree,Male,2.7
+Bachelors Degree,Female,2.3
+Bachelors Degree,Male,2.1
+Advanced Degree,Female,1.6
+ Advanced Degree,Male,1.7
